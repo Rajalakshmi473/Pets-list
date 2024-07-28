@@ -1,0 +1,7 @@
+{
+  "pets": [
+    { "id": 1, "name": "Max", "type": "Dog" },
+    { "id": 2, "name": "Mittens", "type": "Cat" },
+    { "id": 3, "name": "Goldie", "type": "Fish" }
+  ]
+}
